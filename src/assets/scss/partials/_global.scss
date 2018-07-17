@@ -1,0 +1,65 @@
+body {
+    background-image: url("../media/oliveoil.jpg");
+    opacity: 20;
+}
+    h1 {
+    font-family: 'Galada', cursive;
+    font-family: 'Oleo Script', cursive;
+    font-size: 70px;
+    color: white;
+    text-align: center;
+    background-color: #eab861;
+    margin: 0px;
+    
+}
+h2 {
+    font-family: 'Galada', cursive;
+    font-family: 'Oleo Script', cursive;
+    font-size: 30px;
+    text-align: center;
+    padding: 4px;
+
+}
+.header2 {
+    margin: 5px;
+    padding: 20px;
+    display: flex;
+}   
+
+.box {
+    margin: 15px;
+    padding: 15px;
+    border: 3px solid #f2d49fb6;
+    border-radius: 25px;
+}
+.header2 .box:hover {
+    background-color: rgba(227, 227, 210, 0.865);
+    cursor: pointer;
+}
+.robot {
+    font-family: 'Roboto', sans-serif;
+}
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.331);
+    transition: 0.3s;
+    border-radius: 5px; 
+    margin: 20px;
+}
+.card:hover {
+    background-color: rgba(227, 227, 210, 0.865);
+    cursor: pointer;
+}
+img {
+    border-radius: 5px;
+}
+h4 {
+    font-family: 'Galada', cursive;
+    font-family: 'Oleo Script', cursive;
+    font-size: 30px;
+    text-align: center;
+    color: #eab861;
+}
+.meals {
+    display: flex;
+}
+

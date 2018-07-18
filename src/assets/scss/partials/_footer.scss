@@ -6,21 +6,20 @@ h3 {
     font-family: 'Oleo Script', cursive;
     font-size: 30px;
     color: black;
+    display: inline-block;
+    margin-left: 150px;
+    margin-right: 150px;
 
 }
 h3:hover {
-    font-size: 33px;
     color: rgba(0, 0, 0, 0.536);
 }
-.bottom {
-}
 .words {
-    text-align: center;
-    display: inline;
+    text-align: center;   
 }
 .icons {
-
-    margin-bottom: 10px;
+    text-align: center;
+    padding-bottom: 30px;
 }
 .fa-snapchat-square {
     padding: 3px;
